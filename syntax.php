@@ -34,7 +34,7 @@ class syntax_plugin_select extends DokuWiki_Syntax_Plugin {
     /**
      * Create output
      */
-    function render($mode, &$renderer, $data) {
+    function render($mode, Doku_Renderer $renderer, $data) {
         global $conf;
         if($mode == 'xhtml'){
             list($title,$items) = $data;
