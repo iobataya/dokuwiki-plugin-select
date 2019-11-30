@@ -2,7 +2,7 @@
 base   select
 author Ikuo Obataya
 email  i.obataya@gmail.com
-date   2013-02-17
+date   2019-11-30
 name   Select Plugin
 desc   Creates a selection box of links to navigate
 url    http://www.dokuwiki.org/plugin:select
